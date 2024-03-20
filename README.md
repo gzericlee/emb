@@ -1,0 +1,2 @@
+# emb
+rust example
