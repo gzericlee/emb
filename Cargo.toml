@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "api",
+    "auth",
+    "dispatch",
+    "gateway",
+    "seq",
+    "push",
+    "storage",
+    "libs"
+]
